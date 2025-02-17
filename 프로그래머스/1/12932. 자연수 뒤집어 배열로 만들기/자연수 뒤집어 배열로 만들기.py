@@ -1,8 +1,8 @@
 def solution(n):
-    answer = [0] * len(str(n))
+    result = []
     
-    for i in range(len(str(n))-1, -1, -1):
-        answer[len(str(n)) - i - 1] = int(str(n)[i])
-        
-    return answer
+    while n > 0:
+        result.append(n % 10)
+        n //= 10
+    return result
     
