@@ -1,10 +1,11 @@
 def solution(s):
-    # 문자열을 소문자로 변환
-    s = s.lower()
+    count_p = 0
+    count_y = 0
     
-    # 'p'와 'y'의 개수를 세기
-    count_p = s.count('p')
-    count_y = s.count('y')
+    for char in s.lower():
+        if char == 'p':
+            count_p += 1
+        elif char == 'y':
+            count_y += 1
     
-    # 'p'와 'y'의 개수 비교
     return count_p == count_y
