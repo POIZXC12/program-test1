@@ -6,7 +6,7 @@ def solution(arr):
         return [-1]
     
     for i in arr:
-        if i not in [min_arr]:
+        if i != min_arr:
             result.append(i)
             
     return result
