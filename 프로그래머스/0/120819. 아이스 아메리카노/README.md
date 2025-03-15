@@ -1,10 +1,10 @@
 # [level 0] 아이스 아메리카노 - 120819 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120819) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120819?language=java) 
 
 ### 성능 요약
 
-메모리: 9.98 MB, 시간: 0.00 ms
+메모리: 75.7 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 02월 23일 22:19:11
+2025년 03월 15일 13:37:59
 
 ### 문제 설명
 
