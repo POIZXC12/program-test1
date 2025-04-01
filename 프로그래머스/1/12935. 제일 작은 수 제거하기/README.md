@@ -1,10 +1,10 @@
 # [level 1] 제일 작은 수 제거하기 - 12935 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12935?language=swift) 
 
 ### 성능 요약
 
-메모리: 15.5 MB, 시간: 3.52 ms
+메모리: 25.3 MB, 시간: 11.26 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 03월 05일 00:51:28
+2025년 04월 01일 23:57:02
 
 ### 문제 설명
 
